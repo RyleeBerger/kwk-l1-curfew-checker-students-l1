@@ -4,7 +4,7 @@ def simple_curfew_checker(time)
     puts "Time for curfew!"
   end
 
-def curfew_checker(time)
+#def curfew_checker(time)
   # code goes here
 end
 

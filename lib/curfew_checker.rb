@@ -1,22 +1,22 @@
 def simple_curfew_checker(time)
   # code goes here
-  if number >= 11
+  if 10 >= 11
     puts "Time for curfew!"
   end
 end
 
-#def curfew_checker(time)
+def curfew_checker(time)
   # code goes here
-#end
+end
 
-  #def complex_curfew_checker(time)
+def complex_curfew_checker(time)
   # code goes here
-#end
+end
 
-#def deluxe_curfew_checker(time)
+def deluxe_curfew_checker(time)
   # code goes here
-#end
+end
 
-#def platinum_curfew_checker(current_time, curfew_time)
+def platinum_curfew_checker(current_time, curfew_time)
   # code goes here
-#end
+end

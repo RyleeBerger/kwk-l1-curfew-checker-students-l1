@@ -14,8 +14,8 @@ def simple_curfew_checker(time)
 
 #def deluxe_curfew_checker(time)
   # code goes here
-end
+#end
 
-def platinum_curfew_checker(current_time, curfew_time)
+#def platinum_curfew_checker(current_time, curfew_time)
   # code goes here
-end
+#end
